@@ -1,3 +1,5 @@
 ls -> lista arquivos
 cd -> se move até o diretorio
 pwd -> mostra qual é o diretorio que você está
+cat -> exibe conteudo do arquivo
+rm -> remove conteúdo do diretorio "rm -rf" (comando doidera)
