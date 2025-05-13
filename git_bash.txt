@@ -4,3 +4,5 @@ pwd -> mostra qual é o diretorio que você está
 cat -> exibe conteudo do arquivo
 rm -> remove conteúdo do diretorio "rm -rf" (comando doidera)
 rm -rf -> remove tudo!!
+
+foda-se
