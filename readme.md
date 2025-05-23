@@ -3,3 +3,7 @@
 Um curso para iniciantes aprederem a trabalhar com o Git & GitHub.
 
 Além disso vamos trabalhar com GitFlow e Visual Studio Code ao final do curso.
+
+Olhe também: 
+
+[teomewhy.org](https://teomewhy.org/)
